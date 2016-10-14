@@ -1,5 +1,5 @@
 
-''' Depth first (a.k.a. preorder) traversal for binary tree '''
+''' Depth first (a.k.a. preorder) traversal for binary tree  '''
 
 # First, create a Stack class which will hold nodes to be visited
 class Stack:
